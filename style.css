@@ -81,6 +81,10 @@ p {
   width: 250px;
 }
 
+.full-width {
+  width: 100%;
+}
+
 .clear {
   clear: both;
 }
