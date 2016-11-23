@@ -32,6 +32,18 @@ p {
   text-align: center;
 }
 
+li {
+  display: inline-block;
+  font-size: 12px;
+  width: 100px;
+  font-weight: bold;
+  margin-top: 30px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-align: center;
+  margin-left: 30px;
+}
+
 .bio {
   color: white;
   font-size: 14px;
@@ -120,6 +132,16 @@ p {
   color: white;
   font-weight: bold;
   font-size: 13px;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+}
+
+.hire-me {
+  border-style: solid;
+  border-color: white;
 }
 
 .clear {
